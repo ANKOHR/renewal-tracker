@@ -1,0 +1,9 @@
+Renewal Tracker build complete, 2026-10-01
+Tests: 70 passed (pytest).
+Local verified implementation commit: 2ecc7ed26195267c2d69b00811f10235395da175
+This commit identifies the implementation, tests, docs and evidence. A following documentation-only commit adds this completion record.
+Measured synthetic demo: 0.711538 seconds.
+Measured standalone JSON report: 0.220936 seconds.
+Branch: main. Publishing: not performed, reserved for the separate verification step.
+
+Built a deterministic, CPU-only, local JSON Python CLI with fixtures, run, report, due and costs commands; pure renewal classification and exact per-currency/per-cadence decimal costs; real/synthetic provenance banners and source hashes; a labelled 200-record fixture with independent hand-computed expectations and a hand-written five-record example; adversarial, determinism and reconciliation tests; atomic output with named errors; complete usage, input, architecture and honesty documentation; measured acceptance evidence and a snapshot reconciliation improvement. Every planted count, amount and due ID matches exactly with zero false positives or misses. Real-use savings and adoption are unmeasured; the final product verdict is pending the required two-week evidence window in VERDICT.md.
