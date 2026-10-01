@@ -1,0 +1,62 @@
+{
+  "_comment": "SYNTHETIC: hand-written five-record example, not real accounts",
+  "as_of": "2026-09-30",
+  "records": [
+    {
+      "amount": "12.00",
+      "cadence": "annual",
+      "category": "domain",
+      "currency": "GBP",
+      "id": "tiny-domain",
+      "name": "Synthetic domain",
+      "renewal_date": "2026-09-29",
+      "status": "active",
+      "synthetic": true
+    },
+    {
+      "amount": "9.99",
+      "cadence": "monthly",
+      "category": "subscription",
+      "currency": "GBP",
+      "id": "tiny-sub",
+      "name": "Synthetic subscription",
+      "renewal_date": "2026-09-30",
+      "status": "active",
+      "synthetic": true
+    },
+    {
+      "amount": "30.00",
+      "cadence": "quarterly",
+      "category": "membership",
+      "currency": "GBP",
+      "id": "tiny-member",
+      "name": "Synthetic membership",
+      "renewal_date": "2026-10-30",
+      "status": "active",
+      "synthetic": true
+    },
+    {
+      "amount": "5.00",
+      "cadence": "weekly",
+      "category": "service",
+      "currency": "USD",
+      "id": "tiny-service",
+      "name": "Synthetic service",
+      "renewal_date": "2026-10-31",
+      "status": "active",
+      "synthetic": true
+    },
+    {
+      "amount": "99.00",
+      "cadence": "annual",
+      "category": "subscription",
+      "currency": "GBP",
+      "id": "tiny-cancelled",
+      "name": "Synthetic cancelled plan",
+      "renewal_date": "2026-09-01",
+      "status": "cancelled",
+      "synthetic": true
+    }
+  ],
+  "synthetic": true
+}

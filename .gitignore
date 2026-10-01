@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+.rt/
+demo/
+renewal-tracker-codex.log
+renewal-tracker-launch.py
+renewal-tracker-prompt.txt
